@@ -1,4 +1,6 @@
-# Estudo API Rest em Golang <img src="./docs/images/gopher.png">
+# Estudo API Rest em Golang 
+<br> 
+<img src="./docs/images/gopher.png">
 
 [<img src="./docs/images/icons/go.svg" width="25px" height="25px" alt="go" title="Go"> <img src="./docs/images/icons/docker.svg" width="25px" height="25px" alt="Docker" title="Docker"> <img src="./docs/images/icons/github.svg" width="25px" height="25px" alt="GitHub" title="GitHub"> <img src="./docs/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="vscode" title="vscode">](#estudo-de-autenticação-testes-e-segurança-em-nodejs) <!-- icons by https://simpleicons.org/?q=types -->
 
