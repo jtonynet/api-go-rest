@@ -11,11 +11,11 @@
 ## :arrow_heading_up: Índice
 <!--ts-->
 - [Go: desenvolvendo uma API Rest](#estudo-de-autenticação-testes-e-segurança-em-nodejs)
-  :arrow_heading_up: [Índice](#arrow_heading_up-índice)
-  :green_book: [Sobre](#green_book-sobre)
-  :hammer: [Ferramentas](#hammer-ferramentas)
-  :clap: [Boas Práticas](#clap-boas-práticas)
-  :1234: [Versões](#1234-versões)
+  :arrow_heading_up: [Índice](#arrow_heading_up-índice)<br>
+  :green_book: [Sobre](#green_book-sobre)<br>
+  :hammer: [Ferramentas](#hammer-ferramentas)<br>
+  :clap: [Boas Práticas](#clap-boas-práticas)<br>
+  :1234: [Versões](#1234-versões)<br>
 
 <!--te-->
 ---
