@@ -36,6 +36,18 @@ Recomendo a instalação do [GVM](https://github.com/moovweb/gvm) para controle 
 
 Recomendo a instalação da extensão [Golang do VsCode](https://marketplace.visualstudio.com/items?itemName=golang.go)
 
+
+Descobrindo o host do banco postgres para configurar o pgadmin, apos subir o docker-compose:
+
+```bash
+$ docker-compose exec postgres sh
+# hostname -i
+```
+ou
+```bash
+$ docker inspect container_id | grep IPAddress
+```
+
 [:arrow_heading_up: voltar](#indice)
 
 ---
@@ -71,3 +83,4 @@ As tags de versões estao sendo criadas manualmente a medida que os estudos avan
 Para obter mais informações, consulte o [Histórico de Versões](./CHANGELOG.md).
 
 [:arrow_heading_up: voltar](#indice)
+
