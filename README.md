@@ -13,7 +13,7 @@
 <a id="indice"></a>
 ## :arrow_heading_up: Índice
 <!--ts-->
-- [Go: desenvolvendo uma API Rest](#estudo-api-rest-em-golang)
+- [Go: desenvolvendo uma API Rest](#estudo-api-rest-em-golang)<br>
   :arrow_heading_up: [Índice](#arrow_heading_up-índice)<br>
   :green_book: [Sobre](#green_book-sobre)<br>
   :computer: [Rodando o Projeto](#computer-rodando-o-projeto)<br>
