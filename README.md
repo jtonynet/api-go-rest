@@ -16,6 +16,7 @@
 - [Go: desenvolvendo uma API Rest](#estudo-de-autenticação-testes-e-segurança-em-nodejs)
   :arrow_heading_up: [Índice](#arrow_heading_up-índice)<br>
   :green_book: [Sobre](#green_book-sobre)<br>
+  :computer: [Rodando o Projeto](#computer-rodando-o-projeto)<br>
   :hammer: [Ferramentas](#hammer-ferramentas)<br>
   :clap: [Boas Práticas](#clap-boas-práticas)<br>
 
@@ -23,7 +24,7 @@
 ---
 <a id="sobre"></a>
 ## :green_book: Sobre
-Projeto de estudo baseado na trilha [Go: desenvolvendo uma API Rest](https://www.alura.com.br/curso-online-go-desenvolvendo-api-rest).
+Projeto de estudo baseado na trilha [Go: desenvolvendo uma API Rest](https://www.alura.com.br/curso-online-go-desenvolvendo-api-rest). Esse projeto tem finalidade puramente didática.
 
 
 As versões mais recentes da linguagem já têm a instalação simplificada pelo `snap`
@@ -51,6 +52,25 @@ $ docker inspect container_id | grep IPAddress
 
 ---
 
+### :computer: Rodando o Projeto
+
+Primeiro inicie o docker-compose de infra/bancos:
+```bash
+$ docker-compose up
+```
+Compile e rode o binário:
+
+```bash
+$ go run main.go
+```
+
+Acesse: `http://localhost:8000/api/personalidades`
+
+
+[:arrow_heading_up: voltar](#indice)
+
+---
+
 <a id="ferramentas"></a>
 ## :hammer: Ferramentas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -67,8 +87,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a id="boas-praticas"></a>
 ## :clap: Boas Práticas
 Seguindo boas práticas de desenvolvimento:
-- [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
-- [keep a changelog](https://keepachangelog.com/en/1.0.0/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 [:arrow_heading_up: voltar](#indice)
