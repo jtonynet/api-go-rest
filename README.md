@@ -6,7 +6,7 @@
 
 
 
-![Badge Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green)
+![Badge Status](https://img.shields.io/badge/STATUS-ENCERRADO-blue)
 
 ---
 
@@ -18,7 +18,6 @@
   :green_book: [Sobre](#green_book-sobre)<br>
   :hammer: [Ferramentas](#hammer-ferramentas)<br>
   :clap: [Boas Práticas](#clap-boas-práticas)<br>
-  :1234: [Versões](#1234-versões)<br>
 
 <!--te-->
 ---
@@ -74,13 +73,5 @@ Seguindo boas práticas de desenvolvimento:
 
 [:arrow_heading_up: voltar](#indice)
 
----
 
-<a id="versionamento"></a>
-## :1234: Versões
-As tags de versões estao sendo criadas manualmente a medida que os estudos avançam com melhorias notáveis no projeto. Cada novo modulo do curso ou funcionalidade é desenvolvido em uma branch a parte quando finalizadas é gerada tag (minor para o curso e patch para melhorias) e mergeadas em master.
-
-Para obter mais informações, consulte o [Histórico de Versões](./CHANGELOG.md).
-
-[:arrow_heading_up: voltar](#indice)
 
