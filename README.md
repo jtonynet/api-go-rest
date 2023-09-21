@@ -58,6 +58,12 @@ Primeiro inicie o docker-compose de infra/bancos:
 ```bash
 $ docker-compose up
 ```
+
+Instale as dependências:
+```bash
+$ go mod tidy
+```
+
 Compile e rode o binário:
 
 ```bash
