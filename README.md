@@ -1,4 +1,4 @@
-# Estudo API Rest em Golang 
+# Estudo API Rest em Golang
 <br> 
 <img src="./docs/images/gopher.png">
 
@@ -13,7 +13,7 @@
 <a id="indice"></a>
 ## :arrow_heading_up: Índice
 <!--ts-->
-- [Go: desenvolvendo uma API Rest](#estudo-de-autenticação-testes-e-segurança-em-nodejs)
+- [Go: desenvolvendo uma API Rest](#estudo-api-rest-em-golang)
   :arrow_heading_up: [Índice](#arrow_heading_up-índice)<br>
   :green_book: [Sobre](#green_book-sobre)<br>
   :computer: [Rodando o Projeto](#computer-rodando-o-projeto)<br>
@@ -77,7 +77,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [GVM v1.0.22](https://github.com/moovweb/gvm)
 - [Go v1.20.0](https://go.dev/)
-- [Docker](https://www.docker.com/)
+- [Docker 24.0.6](https://www.docker.com/)
+- [Docker compose 1.29.2](https://www.docker.com/)
 
 [:arrow_heading_up: voltar](#indice)
 
